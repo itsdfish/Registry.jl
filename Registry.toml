@@ -1,0 +1,5 @@
+name = "Registry"
+uuid = "f895ae59-e475-4102-8b85-ba81d7a5ee60"
+repo = "https://github.com/itsdfish/Registry.jl"
+
+[packages]
