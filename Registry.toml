@@ -5,3 +5,4 @@ repo = "https://github.com/itsdfish/Registry.jl"
 [packages]
 aeb53088-f60c-46c6-a6bd-4c0674b6a013 = { name = "QuantumEpisodicMemory", path = "Q/QuantumEpisodicMemory" }
 df2e8839-b2b1-4723-be1d-fec23799ee0a = { name = "SocialSamplingTheory", path = "S/SocialSamplingTheory" }
+eb72c636-9a01-4ecc-abce-d33068f7a378 = { name = "CategorizationModels", path = "C/CategorizationModels" }
