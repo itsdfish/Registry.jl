@@ -1,0 +1,6 @@
+[0]
+ConcreteStructs = "0.2"
+Distributions = "0.25.62-0.25"
+NamedArrays = "0.9-0.10"
+SafeTestsets = ["0.0.1", "0.1"]
+julia = "1"
