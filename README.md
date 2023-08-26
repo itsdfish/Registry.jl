@@ -20,6 +20,6 @@ add SocialSamplingTheory
 ```
 or `add` followed by the name of the package you would like to install. 
 
-# More Info
+## More Info
 
 For more information on registries, see [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl)
