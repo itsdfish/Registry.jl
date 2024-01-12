@@ -3,6 +3,7 @@ uuid = "f895ae59-e475-4102-8b85-ba81d7a5ee60"
 repo = "https://github.com/itsdfish/Registry.jl"
 
 [packages]
+078a070c-0203-4da7-b1d6-6b458fb9d52e = { name = "CantStop", path = "C/CantStop" }
 24e5ef78-50fe-477e-a5d7-9fd2ec18bc46 = { name = "QuantumPrisonersDilemmaModel", path = "Q/QuantumPrisonersDilemmaModel" }
 27403de4-b1c2-4c44-95d8-36d2b6bff33e = { name = "ACTRPVT", path = "A/ACTRPVT" }
 96ca8dcf-183a-4ff5-ac3e-0011235b8f55 = { name = "Code2String", path = "C/Code2String" }
