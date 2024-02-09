@@ -1,4 +1,7 @@
 [0]
+julia = "1"
+
+["0-0.2.0"]
 ConcreteStructs = "0.2.3-0.2"
 Distributions = "0.25"
 NamedTupleTools = "0.14"
@@ -8,7 +11,6 @@ Random = "1"
 SafeTestsets = "0.1"
 SmoothingSplines = "0.3"
 ThreadsX = "0.1.11-0.1"
-julia = "1"
 
-["0.2-0"]
+["0.2.0"]
 StatsBase = "0.34"
