@@ -6,6 +6,7 @@ repo = "https://github.com/itsdfish/Registry.jl"
 078a070c-0203-4da7-b1d6-6b458fb9d52e = { name = "CantStop", path = "C/CantStop" }
 0ed30ee8-6cef-4eac-8e89-7848059aa71e = { name = "QuantumDynamicInconsistencyModels", path = "Q/QuantumDynamicInconsistencyModels" }
 24e5ef78-50fe-477e-a5d7-9fd2ec18bc46 = { name = "QuantumPrisonersDilemmaModel", path = "Q/QuantumPrisonersDilemmaModel" }
+260ba6b7-9af7-473a-b238-1a1a0638f266 = { name = "TrueAndErrorModels", path = "T/TrueAndErrorModels" }
 2683bf95-d0b8-4c71-a7d3-b42f78bf1cf0 = { name = "RetirementPlanners", path = "R/RetirementPlanners" }
 27403de4-b1c2-4c44-95d8-36d2b6bff33e = { name = "ACTRPVT", path = "A/ACTRPVT" }
 96ca8dcf-183a-4ff5-ac3e-0011235b8f55 = { name = "Code2String", path = "C/Code2String" }
