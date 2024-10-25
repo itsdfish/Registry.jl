@@ -5,3 +5,6 @@ SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
 
 ["0.1.5 - 0"]
 DynamicPPL = "366bfd00-2699-11ea-058f-f148b4cae6d8"
+
+["0.2.1 - 0"]
+TuringUtilities = "35dc62cd-6c01-44e1-a736-6cc36bfce0cc"
