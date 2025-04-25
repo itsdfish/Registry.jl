@@ -1,3 +1,3 @@
 name = "TrueAndErrorModels"
 uuid = "260ba6b7-9af7-473a-b238-1a1a0638f266"
-repo = "https://github.com/itsdfish/TrueAndErrorModels.jl"
+repo = "git@github.com:itsdfish/TrueAndErrorModels.jl.git"
