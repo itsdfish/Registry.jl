@@ -12,3 +12,6 @@ TestItemRunner = "1.0.5 - 1"
 
 ["0.4 - 0"]
 Statistics = "1.11.1 - 1"
+
+["0.7.5 - 0"]
+LightSumTypes = "5.2.0 - 5"
