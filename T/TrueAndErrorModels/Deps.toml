@@ -13,3 +13,6 @@ TuringUtilities = "35dc62cd-6c01-44e1-a736-6cc36bfce0cc"
 
 ["0.2.15 - 0"]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+["0.2.17 - 0"]
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
