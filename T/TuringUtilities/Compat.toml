@@ -47,6 +47,10 @@ SequentialSamplingModels = "0.12"
 ["0.1.9 - 0.2.0"]
 DynamicPPL = "0.30 - 0.36"
 
-["0.2.1 - 0"]
+["0.2.1 - 0.2.2"]
 DynamicPPL = "0.35 - 0.36"
 Turing = "0.37 - 0.39"
+
+["0.2.3 - 0"]
+DynamicPPL = "0.35 - 0.37"
+Turing = "0.37 - 0.40"
