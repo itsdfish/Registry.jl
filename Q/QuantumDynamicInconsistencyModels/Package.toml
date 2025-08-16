@@ -1,3 +1,3 @@
 name = "QuantumDynamicInconsistencyModels"
 uuid = "0ed30ee8-6cef-4eac-8e89-7848059aa71e"
-repo = "https://github.com/itsdfish/QuantumDynamicInconsistencyModels.jl"
+repo = "https://github.com/itsdfish/QuantumDynamicInconsistencyModels.jl.git"
