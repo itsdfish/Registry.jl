@@ -4,6 +4,7 @@ repo = "https://github.com/itsdfish/Registry.jl"
 
 [packages]
 078a070c-0203-4da7-b1d6-6b458fb9d52e = { name = "CantStop", path = "C/CantStop" }
+07e9ded4-b20f-4255-9023-380d1af610f1 = { name = "TrueAndErrorDependentModels", path = "T/TrueAndErrorDependentModels" }
 0ed30ee8-6cef-4eac-8e89-7848059aa71e = { name = "QuantumDynamicInconsistencyModels", path = "Q/QuantumDynamicInconsistencyModels" }
 24e5ef78-50fe-477e-a5d7-9fd2ec18bc46 = { name = "QuantumPrisonersDilemmaModel", path = "Q/QuantumPrisonersDilemmaModel" }
 260ba6b7-9af7-473a-b238-1a1a0638f266 = { name = "TrueAndErrorModels", path = "T/TrueAndErrorModels" }
