@@ -10,6 +10,7 @@ repo = "https://github.com/itsdfish/Registry.jl"
 260ba6b7-9af7-473a-b238-1a1a0638f266 = { name = "TrueAndErrorModels", path = "T/TrueAndErrorModels" }
 2683bf95-d0b8-4c71-a7d3-b42f78bf1cf0 = { name = "RetirementPlanners", path = "R/RetirementPlanners" }
 27403de4-b1c2-4c44-95d8-36d2b6bff33e = { name = "ACTRPVT", path = "A/ACTRPVT" }
+2dc075f3-63e3-4758-9998-92471b793ec7 = { name = "ReferencePointModels", path = "R/ReferencePointModels" }
 35dc62cd-6c01-44e1-a736-6cc36bfce0cc = { name = "TuringUtilities", path = "T/TuringUtilities" }
 7c5151da-7441-44ce-994c-925a68a5ee0b = { name = "PriorityHeuristicModels", path = "P/PriorityHeuristicModels" }
 96ca8dcf-183a-4ff5-ac3e-0011235b8f55 = { name = "Code2String", path = "C/Code2String" }
