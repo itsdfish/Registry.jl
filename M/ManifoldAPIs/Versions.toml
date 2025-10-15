@@ -3,3 +3,6 @@ git-tree-sha1 = "90ac3b8156ff5166a0cc7d14a8cf8f477ca4b3f0"
 
 ["0.1.1"]
 git-tree-sha1 = "2c27f8573e3d12424d0a4cd567c6f390e1dff477"
+
+["0.2.0"]
+git-tree-sha1 = "336d7fdf180a6d7f745082570b6563a7eb9fad55"
