@@ -7,8 +7,13 @@ ConcreteStructs = "0.2"
 Distributions = "0.25.62-0.25"
 NamedArrays = "0.9-0.10"
 
+["0.2"]
+PrettyTables = "2"
+
 ["0.2 - 0"]
 Distributions = "0.25.62 - 0.25"
 LaTeXStrings = "1"
 NamedArrays = "0.9 - 0.10"
-PrettyTables = "2"
+
+["0.3 - 0"]
+PrettyTables = "3"
