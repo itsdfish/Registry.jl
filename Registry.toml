@@ -15,6 +15,7 @@ repo = "https://github.com/itsdfish/Registry.jl"
 7c5151da-7441-44ce-994c-925a68a5ee0b = { name = "PriorityHeuristicModels", path = "P/PriorityHeuristicModels" }
 96ca8dcf-183a-4ff5-ac3e-0011235b8f55 = { name = "Code2String", path = "C/Code2String" }
 aeb53088-f60c-46c6-a6bd-4c0674b6a013 = { name = "QuantumEpisodicMemory", path = "Q/QuantumEpisodicMemory" }
+c4506e43-6c47-4326-8576-613baff7d94d = { name = "QuantumContextEffectModels", path = "Q/QuantumContextEffectModels" }
 df2e8839-b2b1-4723-be1d-fec23799ee0a = { name = "SocialSamplingTheory", path = "S/SocialSamplingTheory" }
 eb72c636-9a01-4ecc-abce-d33068f7a378 = { name = "CategorizationModels", path = "C/CategorizationModels" }
 f524e84d-92ea-4684-8f11-5a9e755e9d2c = { name = "ManifoldAPIs", path = "M/ManifoldAPIs" }

@@ -1,0 +1,3 @@
+name = "QuantumContextEffectModels"
+uuid = "c4506e43-6c47-4326-8576-613baff7d94d"
+repo = "https://github.com/itsdfish/QuantumContextEffectModels.jl.git"
