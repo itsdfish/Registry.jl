@@ -1,0 +1,3 @@
+name = "SignalDetectionModels"
+uuid = "1177497a-bfcb-4701-b32d-ffcd4fa2eaa8"
+repo = "https://github.com/itsdfish/SignalDetectionModels.jl.git"
