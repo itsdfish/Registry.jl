@@ -67,6 +67,11 @@ Turing = "0.37-0.42"
 DynamicPPL = "0.35-0.40"
 Turing = "0.37-0.43"
 
-["0.2.8-0"]
+["0.2.8"]
 DynamicPPL = "0.37-0.41"
 Turing = "0.40-0.44"
+
+["0.2.9-0"]
+DynamicPPL = "0.37-0.42"
+FlexiChains = "0.6.2-0.6"
+Turing = "0.40-0.46"
